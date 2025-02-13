@@ -2,6 +2,8 @@
 
 These materials are my presentation - workshop at [UPSI Malaysia](https://www.upsi.edu.my/).
 
+![Poster - UPSI](bpdp-nlp-UPSI.jpg)
+
 License: CC-BY-SA 4.0 (https://creativecommons.org/licenses/by-sa/4.0/)
 
 (c) 2025 - Bambang Purnomosidi D. P.
